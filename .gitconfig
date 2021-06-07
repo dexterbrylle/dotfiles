@@ -1,3 +1,9 @@
 [user]
-  name = Dexter Brylle Matos
-  email = dexterbrylle@users.noreply.github.com
+	name = Dexter Matos
+	email = dexterbrylle@users.noreply.github.com
+[core]
+	excludesfile = /Users/dexterbrylle/.gitignore_global
+	editor = vim
+	edditor = --wait
+[http]
+	sslVerify = false
