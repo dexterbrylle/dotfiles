@@ -61,12 +61,10 @@ brew tap "homebrew/core"
 brew tap "mongodb/brew"
 
 brew install heroku/brew/heroku
-brew install alfred
-brew install google-chrome
+#brew install alfred
+#brew install google-chrome
 brew install --cask firefox
+brew install mongodb-community@4.4
+brew install --cask notion
 
-
-sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
-
-curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash
 
