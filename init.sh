@@ -66,5 +66,4 @@ brew install heroku/brew/heroku
 brew install --cask firefox
 brew install mongodb-community@4.4
 brew install --cask notion
-
-
+brew install exa
