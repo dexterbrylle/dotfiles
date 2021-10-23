@@ -44,6 +44,7 @@ alias chrome="/Applications/Google\ Chrome.app"
 alias canary="/Applications/Google\ Chrome\ Canary.app"
 alias fox="/Applications/Firefox.app"
 alias foxdev="/Applications/Firefox\ Developer\ Edition.app"
+alias subl="/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl"
 
 # Show active network interfaces
 alias ifactive="ifconfig | pcregrep -M -o '^[^\t:]+:([^\n]|\n\t)*status: active'"
